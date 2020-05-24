@@ -1,8 +1,8 @@
 README.md :
 	touch README.md
-	echo "Title of the proyect: Guess"
-	date
-	echo "lines of code in guessinggame"
-	wc -l guessinggame.sh
+	**Title of the proyect:** Guess
+	**Make run:** 'date'
+	**lines of code in guessinggame** 'wc -l guessinggame.sh'
+
 
 
